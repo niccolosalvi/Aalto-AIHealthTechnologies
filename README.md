@@ -23,7 +23,7 @@ The repository is organized into three main folders:
 ### [Assignment 1: ML Fundamentals in Healthcare](https://www.google.com/search?q=./assignment1/)
 
 * **Clinical Goal:** Predicting treatment response in Major Depressive Disorder (MDD).
-* **Key Tasks:** * Experimental analysis of model stability vs. performance.
+* **Key Tasks:** Experimental analysis of model stability vs. performance.
 * Comparison of Decision Trees and Random Forests.
 * Dimensionality reduction (PCA) and Permutation Testing for statistical significance.
 
@@ -32,7 +32,7 @@ The repository is organized into three main folders:
 ### [Assignment 2: Medical Image Classification](https://www.google.com/search?q=./assignment2/)
 
 * **Clinical Goal:** Automated diagnosis of Knee Osteoarthritis (OA) severity (KL grading).
-* **Key Tasks:** * Implementation of a Convolutional Neural Network (CNN) in PyTorch.
+* **Key Tasks:** Implementation of a Convolutional Neural Network (CNN) in PyTorch.
 * Advanced data augmentation and patch-based training.
 * Grouped K-Fold validation to ensure patient-level independence.
 
@@ -41,7 +41,7 @@ The repository is organized into three main folders:
 ### [Assignment 3: Medical Image Segmentation](https://www.google.com/search?q=./assignment3/)
 
 * **Clinical Goal:** Fully automatic subregional morphological assessment of knee cartilage.
-* **Key Tasks:** * Implementing a "slice-by-slice" segmentation pipeline for 3D MRI volumes.
+* **Key Tasks:** Implementing a "slice-by-slice" segmentation pipeline for 3D MRI volumes.
 * Using Python design patterns (Mixins and Inheritance) for modular code.
 * Evaluation of segmentation masks for femur, tibia, and cartilage tissues.
 
