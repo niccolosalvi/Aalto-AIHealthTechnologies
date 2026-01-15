@@ -99,7 +99,6 @@ After each subtask:
 - Avoid unnecessary refactoring.
 - Do not introduce new dependencies unless strictly necessary.
 - Use fixed random seeds where applicable.
-- Do not work on the written report at this stage.
 
 ## Communication Style
 - When unsure, ask for clarification before proceeding.
