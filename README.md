@@ -48,13 +48,13 @@ The repository is organized into three main folders:
 
 ---
 
-Grades
+## Grades
 I achieved the following scores on the assignments and project:
 
-Assignment 1: 20/20
-Assignment 2: 19.5/20
-Assignment 3: 19/20
-Final Project: /20
+- Assignment 1: 20/20
+- Assignment 2: 19.5/20
+- Assignment 3: 19/20
+- Final Project: /20
 
 ---
 
